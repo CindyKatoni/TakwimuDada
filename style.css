@@ -48,3 +48,20 @@
     letter-spacing: 0.1em;
     box-shadow: 2px 1px 7px #000;
 }
+
+.main-r {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+
+.r-t {
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.r-t img {
+    height: 350px;
+    width: 700px;
+    margin-top: 5px;
+}
